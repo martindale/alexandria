@@ -1,0 +1,27 @@
+{
+  "name": "alexandria",
+  "version": "0.1.0",
+  "description": "version-controlled knowledge repository",
+  "main": "alexandria.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martindale/alexandria.git"
+  },
+  "keywords": [
+    "maki",
+    "library",
+    "cms",
+    "content",
+    "wiki",
+    "versioned"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/alexandria/issues"
+  },
+  "homepage": "https://github.com/martindale/alexandria"
+}
